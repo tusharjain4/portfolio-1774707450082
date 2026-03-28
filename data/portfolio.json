@@ -1,0 +1,120 @@
+{
+  "name": "Pooja R. Sonar",
+  "role": "Software Developer",
+  "tagline": "Full-stack software developer specializing in scalable web applications and cutting-edge technology solutions",
+  "about": "Results-driven Software Developer with proven expertise in building enterprise-grade web applications using modern technology stacks. Currently pursuing B.Tech in Information Technology with an outstanding 9.2 CGPA. Demonstrates advanced proficiency in full-stack development, specializing in MERN stack, Next.js, and TypeScript. Successfully delivered diverse projects spanning e-commerce platforms, AI-driven applications, and IoT solutions, with a track record of academic and competitive achievements.",
+  "experience": 1,
+  "currentRole": "SDE Intern at TABX",
+  "highlights": [
+    "Developed scalable web applications using Next.js and TypeScript",
+    "Built e-commerce platform features for EV bikes marketplace",
+    "Implemented message-driven architecture using RabbitMQ",
+    "Created reusable UI components using Storybook",
+    "Won 2nd place in all Goa science day innovative project building competition",
+    "Secured third position at GDSC ADGITM hackathon"
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Backend",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "Java",
+        "PHP",
+        "RESTful APIs",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "name": "Database",
+      "skills": [
+        "MongoDB",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "skills": [
+        "JavaScript",
+        "TypeScript",
+        "Java",
+        "C++",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Tools & Technologies",
+      "skills": [
+        "GitHub",
+        "Storybook",
+        "Arduino",
+        "DSA",
+        "OOP"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AccessAI - CodeQuest",
+      "description": "Comprehensive AI-powered coding preparation platform featuring gamified learning experiences. Enables users to master programming languages, including Solidity for smart contract development, through interactive challenges and personalized learning paths.",
+      "tech": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js",
+        "AI"
+      ],
+      "demo": "https://access-ai-iota.vercel.app/"
+    },
+    {
+      "name": "Maxiple Technology Website",
+      "description": "Custom-built corporate website for a laptop repair services company, delivered as a freelance project. Features responsive design, service portfolio showcase, and client engagement functionalities.",
+      "tech": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js"
+      ],
+      "demo": "https://maxipleitservices.com"
+    },
+    {
+      "name": "Chess.com Backend Clone",
+      "description": "Comprehensive backend system replicating Chess.com functionality using MERN stack architecture. Implements sophisticated API development, real-time gameplay mechanics, user authentication, and database optimization for seamless chess gaming experiences.",
+      "tech": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js",
+        "Real-time APIs"
+      ]
+    },
+    {
+      "name": "Arduino Floor Cleaner",
+      "description": "Award-winning autonomous floor cleaning device engineered with Arduino microcontroller technology. Features smartphone-controlled remote operation through custom mobile application, securing 2nd place at the all-Goa Science Day competition.",
+      "tech": [
+        "Arduino",
+        "Mobile App",
+        "IoT",
+        "Remote Control"
+      ]
+    }
+  ],
+  "contact": {
+    "email": "poojasonar671@gmail.com",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com"
+  }
+}
